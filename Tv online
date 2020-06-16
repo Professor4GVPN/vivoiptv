@@ -1,0 +1,355 @@
+
+
+#EXTM3U
+
+#EXTINF:-1,https://flylinks.net,1001 Noites (New!)
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
+#EXTINF:-1,https://flylinks.net,Canal Ricos
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,E-Parana
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1,https://flylinks.net,Estudio O Dia 100.5 FM RJ
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,FAAP
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+#EXTINF:-1,https://flylinks.net,IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,Itu TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:-1,https://flylinks.net,Nossa TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+#EXTINF:-1,https://flylinks.net,PUC TV Goias
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+#EXTINF:-1,https://flylinks.net,RecordTV
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:-1,https://flylinks.net,Rede Metropole
+http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8
+#EXTINF:-1,https://flylinks.net,SBT Piaui
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,SescTV
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
+#EXTINF:-1,https://flylinks.net,Summer TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Capital Lucelia
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Caxias
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Cultura PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Digital Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Educativa (Opt-1)
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Educativa (Opt-2)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV J.SID
+http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Jornal Limeira
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Poços
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Metropolitana Rio
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w981877315.m3u8
+#EXTINF:-1,https://flylinks.net,TV Transamerica 59
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Verdes Campos
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1,https://flylinks.net,TVCI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+#EXTINF:-1,https://flylinks.net,TVDS
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1,https://flylinks.net,Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+#EXTINF:-1,https://flylinks.net,Canal Ricos
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,E-Parana
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1,https://flylinks.net,Estudio O Dia 100.5 FM RJ
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,FAAP
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+#EXTINF:-1,https://flylinks.net,IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,Itu TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:-1,https://flylinks.net,Nossa TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+#EXTINF:-1,https://flylinks.net,RecordTV
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:-1,https://flylinks.net,Rede Metropole
+http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8
+#EXTINF:-1,https://flylinks.net,SBT Piaui
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,SescTV
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
+#EXTINF:-1,https://flylinks.net,Summer TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Capital Lucelia
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Caxias
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Cultura PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Digital Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Educativa (Opt-1)
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Educativa (Opt-2)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV J.SID
+http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Jornal Limeira
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Poços
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Metropolitana Rio
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w981877315.m3u8
+#EXTINF:-1,https://flylinks.net,TV Transamerica 59
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Verdes Campos
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1,https://flylinks.net,TVCI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+#EXTINF:-1,https://flylinks.net,TVDS
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1,https://flylinks.net,Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+#EXTINF:-1 ,BRASIL - BAND SPORTS FHD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/32890
+#EXTINF:-1 ,BRASIL - DIARIO DO SERTAO SD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/10697
+#EXTINF:-1 ,BRASIL - E-PARANA SD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/10702
+#EXTINF:-1 ,BRASIL - GLOBO BRASILIA HD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/32891
+#EXTINF:-1 ,BRASIL - M2O SD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/10703
+#EXTINF:-1 ,BRASIL - PARANA SD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/10685
+#EXTINF:-1 ,BRASIL - REDE MINAS SD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/5492
+#EXTINF:-1 ,BRASIL - REDE TV
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/36653
+#EXTINF:-1 ,BRASIL - SPORTV 2 HD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/29277
+#EXTINF:-1 ,BRASIL - SPORTV HD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/29276
+#EXTINF:-1 ,BRASIL - ANIMAL PLANET 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31323
+#EXTINF:-1 ,BRASIL - BAND 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31324
+#EXTINF:-1 ,BRASIL - CARTOON 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31325
+#EXTINF:-1 ,BRASIL - COMBATE 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31326
+#EXTINF:-1 ,BRASIL - DISCOVERY CHANNEL 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31327
+#EXTINF:-1 ,BRASIL - ESPN 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31328
+#EXTINF:-1 ,BRASIL - GLOBO 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31322
+#EXTINF:-1 ,BRASIL - MEGAPIX 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31331
+#EXTINF:-1 ,BRASIL - NATGEO 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31333
+#EXTINF:-1 ,BRASIL - PREMIER 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31334
+#EXTINF:-1 ,BRASIL - REDE TV 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31335
+#EXTINF:-1 ,BRASIL - SBT 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31336
+#EXTINF:-1 ,BRASIL - SPORTV 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31337
+#EXTINF:-1 ,BRASIL - TNT 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31338#EXTINF:-1,https://flylinks.net,1001 Noites (New!)
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
+#EXTINF:-1,https://flylinks.net,Canal Ricos
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,E-Parana
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1,https://flylinks.net,Estudio O Dia 100.5 FM RJ
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,FAAP
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+#EXTINF:-1,https://flylinks.net,IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,Itu TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:-1,https://flylinks.net,Nossa TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+#EXTINF:-1,https://flylinks.net,PUC TV Goias
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+#EXTINF:-1,https://flylinks.net,RecordTV
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:-1,https://flylinks.net,Rede Metropole
+http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8
+#EXTINF:-1,https://flylinks.net,SBT Piaui
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,SescTV
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
+#EXTINF:-1,https://flylinks.net,Summer TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Capital Lucelia
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Caxias
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Cultura PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Digital Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Educativa (Opt-1)
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Educativa (Opt-2)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV J.SID
+http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Jornal Limeira
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Poços
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Metropolitana Rio
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w981877315.m3u8
+#EXTINF:-1,https://flylinks.net,TV Transamerica 59
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Verdes Campos
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1,https://flylinks.net,TVCI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+#EXTINF:-1,https://flylinks.net,TVDS
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1,https://flylinks.net,Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+#EXTINF:-1,https://flylinks.net,Canal Ricos
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,E-Parana
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1,https://flylinks.net,Estudio O Dia 100.5 FM RJ
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,FAAP
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+#EXTINF:-1,https://flylinks.net,IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,Itu TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:-1,https://flylinks.net,Nossa TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+#EXTINF:-1,https://flylinks.net,RecordTV
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:-1,https://flylinks.net,Rede Metropole
+http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8
+#EXTINF:-1,https://flylinks.net,SBT Piaui
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,SescTV
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
+#EXTINF:-1,https://flylinks.net,Summer TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Capital Lucelia
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Caxias
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Cultura PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Digital Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Educativa (Opt-1)
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Educativa (Opt-2)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV J.SID
+http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Jornal Limeira
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Poços
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TV Metropolitana Rio
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w981877315.m3u8
+#EXTINF:-1,https://flylinks.net,TV Transamerica 59
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+#EXTINF:-1,https://flylinks.net,TV Verdes Campos
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1,https://flylinks.net,TVCI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+#EXTINF:-1,https://flylinks.net,TVDS
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1,https://flylinks.net,TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1,https://flylinks.net,Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+#EXTINF:-1 ,BRASIL - BAND SPORTS FHD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/32890
+#EXTINF:-1 ,BRASIL - DIARIO DO SERTAO SD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/10697
+#EXTINF:-1 ,BRASIL - E-PARANA SD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/10702
+#EXTINF:-1 ,BRASIL - GLOBO BRASILIA HD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/32891
+#EXTINF:-1 ,BRASIL - M2O SD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/10703
+#EXTINF:-1 ,BRASIL - PARANA SD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/10685
+#EXTINF:-1 ,BRASIL - REDE MINAS SD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/5492
+#EXTINF:-1 ,BRASIL - REDE TV
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/36653
+#EXTINF:-1 ,BRASIL - SPORTV 2 HD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/29277
+#EXTINF:-1 ,BRASIL - SPORTV HD
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/29276
+#EXTINF:-1 ,BRASIL - ANIMAL PLANET 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31323
+#EXTINF:-1 ,BRASIL - BAND 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31324
+#EXTINF:-1 ,BRASIL - CARTOON 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31325
+#EXTINF:-1 ,BRASIL - COMBATE 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31326
+#EXTINF:-1 ,BRASIL - DISCOVERY CHANNEL 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31327
+#EXTINF:-1 ,BRASIL - ESPN 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31328
+#EXTINF:-1 ,BRASIL - GLOBO 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31322
+#EXTINF:-1 ,BRASIL - MEGAPIX 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31331
+#EXTINF:-1 ,BRASIL - NATGEO 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31333
+#EXTINF:-1 ,BRASIL - PREMIER 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31334
+#EXTINF:-1 ,BRASIL - REDE TV 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31335
+#EXTINF:-1 ,BRASIL - SBT 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31336
+#EXTINF:-1 ,BRASIL - SPORTV 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31337
+#EXTINF:-1 ,BRASIL - TNT 4K
+http://ictv19.xyz:8000/iestradav/mBrPW9gBZO/31338
